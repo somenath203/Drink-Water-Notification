@@ -25,6 +25,7 @@ and press enter to see the drinking water notification.
 
 ## Process to run the notification in the background always
 If we want the water notification system to always run in the background of your system, just follow the below steps :- 
+
 Atfirst, you need to navigate to the location where **Drink-Water-Notification** python folder is present by using the command
 ```
 cd folder_location
