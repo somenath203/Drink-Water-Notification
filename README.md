@@ -1,5 +1,5 @@
 # Drink-Water-Notification
-This is a basic python program which will notify you about drinking water every 1 hour.
+This is a basic python program which will notify you about drinking water after every 1 hour.
 
 ## Requirements
 Python 3.9.1+
